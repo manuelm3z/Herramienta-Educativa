@@ -1,0 +1,277 @@
+#form {
+    border:0px solid;
+    width:780px;
+    margin:auto;
+    background-color:#12128E;
+}
+#form legend{
+    font-weight:bold;
+    font-size:12px;
+    color:#FFFFFF;
+    background-color:#12128E;
+    padding:3px 8px 3px 8px;
+}
+#form ol{
+    list-style:none;
+}
+#form ol li{
+    padding-bottom:5px;
+}
+#form ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+}
+#form input[type=text] {
+    border:1px solid #CCCCCC;
+}
+#form input.btn {
+    padding:3px;
+    color:#FFFFFF;
+     background-image:url(../Archivos/Fondos/atar.jpg);
+    background-repeat:no-repeat;
+    background-color:#990000;
+    border:1px solid #000000;
+}
+#text{
+    color:#120B0B;
+    font-size:12px;
+}
+#forma{
+position:absolute;
+top: 50%;
+left: 50%;
+background-color:#ffffff;
+width: 250px;
+margin-top: -120px;
+height: 200px;
+margin-left: -125px;
+border:3px groove #666699;
+color:#666699;
+font-family: Segoe Print, Lucida Handwriting;
+font-size:12px;
+}
+
+#forma legend{
+    font-weight:bold;
+    font-size:12px;
+    color:#FFFFFF;
+    background-color:#12128E;
+    padding:3px 8px 3px 8px;
+}
+#forma ol{
+    list-style:none;
+}
+#forma ol li{
+    padding-bottom:5px;
+}
+#forma ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+    font-weight:bold;
+    font-size:12px;
+}
+#forma input[type=text] {
+    border:1px solid #CCCCCC;
+}
+#forma input.btn {
+    padding:3px;
+    color:#FFFFFF;
+     background-image:url(../Archivos/Fondos/atar.jpg);
+    background-repeat:no-repeat;
+    background-color:#990000;
+    border:1px solid #000000;
+}
+
+#formr {
+    border:3px solid;
+    width:780px;
+    margin:auto;
+    background-color:#ffffff;
+}
+#formr ol{
+    list-style:none;
+}
+#formr legend{
+    font-weight:bold;
+    font-size:12px;
+    color:#FFFFFF;
+    background-color:#000000;
+    padding:3px 8px 3px 8px;
+}
+#formr input.btn {
+    padding:3px;
+    color:#FFFFFF;
+     background-image:url(../Archivos/Fondos/atar.jpg);
+    background-repeat:no-repeat;
+    background-color:#990000;
+    border:1px solid #000000;
+}
+#formr ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+    font-weight:bold;
+    font-size:12px;
+}
+body{
+background-image: url(../Archivos/Fondos/block.png);
+}
+
+.dentro{
+	border:3px groove #666699;
+}
+
+.titulo{
+	position:absolute;
+	left: 50%;
+	top: 150px; 
+	width: 800px;
+	margin-left: -400px;
+	font-family: Segoe Print, Lucida Handwriting;
+	background-color:#ffffff;
+	color:#666699;
+}
+
+#marco {
+border:3px solid;
+width:800px;
+background-color:#ffffff;
+position: absolute;
+z-index: 1;
+top:169px;
+left: 50%;
+margin-left:-403px;
+height:auto;
+}
+#links {
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+background-color:#000000;
+padding:3px 8px 3px 8px;
+position: absolute;
+z-index: 2;
+top:7px;
+left:50%;
+margin-left:-400px;
+}
+#links2 {
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+background-color:#000000;
+ display:block;
+padding:3px 8px 3px 8px;
+z-index: 2;
+top:7px;
+left:50%;
+margin-left:-400px;
+}
+#links_modulo {
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+background-color:#12128E;
+padding:3px 8px 3px 8px;
+position: absolute;
+z-index: 2;
+left:50%;
+margin-left:-395px;
+}
+#links_modulo a{
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+text-decoration:none;
+}
+#links_notas{
+background-color:#000000;
+padding:3px 8px 3px 8px;
+position: absolute;
+z-index: 2;
+left:50%;
+margin-left:-323px;
+}
+#links_notas a{
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+text-decoration:none;
+}
+#links_eva{
+background-color:#000000;
+padding:3px 8px 3px 8px;
+position: absolute;
+z-index: 2;
+left:50%;
+margin-left:-262px;
+}
+#links_notas a{
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+text-decoration:none;
+}
+#links_cs{
+font-weight:bold;
+font-size:12px;
+color:#FFFFFF;
+background-color:#000000;
+padding:3px 8px 3px 8px;
+position: absolute;
+z-index: 2;
+left:50%;
+margin-left:-166px;
+}
+
+#pie {
+font-weight:bold;
+font-size:12px;
+text-align:center;
+}
+
+#contenido{
+font-weight:bold;
+font-size:12px;
+}
+#contenido_modulo{
+ margin-left:100px;
+ margin-right:5px;
+}
+#inside {
+    border:0px solid;
+    width:780px;
+    margin:auto;
+    background-color:#ffffff;
+}
+#inside  ol{
+    list-style:none;
+}
+#inside legend{
+    font-weight:bold;
+    font-size:12px;
+    color:#FFFFFF;
+    background-color:#12128E;
+    padding:3px 8px 3px 8px;
+}
+#inside input.btn {
+    padding:3px;
+    color:#FFFFFF;
+     background-image:url(../Archivos/Fondos/atar.jpg);
+    background-repeat:no-repeat;
+    background-color:#990000;
+    border:1px solid #000000;
+}
+#inside ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+    font-weight:bold;
+    font-size:12px;
+}
+
+#entabla{
+padding: 20px 20px 20px 80px;
+}

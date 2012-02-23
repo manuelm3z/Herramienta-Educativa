@@ -1,0 +1,6 @@
+PHP5
+software para controlar clases y evaluaciones a un grupo de estudiantes.
+
+Instalacion:
+1- Copiar carpeta HE v1.0 en la carpeta del servidor.
+2- Recuperar base de datos con el script soft_educ.sql
