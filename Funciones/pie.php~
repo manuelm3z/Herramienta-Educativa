@@ -1,8 +1,0 @@
-<?php
-	function pie()
-	{
-?>
-	<p>Distribuido bajo General Public License<p>
-<?
-	}
-?>
