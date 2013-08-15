@@ -26,7 +26,7 @@ class usuario{
 	public $fecha_nac;		
 		
 	public function __construct(){
-		$this->conexion=(@mysql_connect("localhost","root","cumplo2109"));
+		$this->conexion=(@mysql_connect("localhost","root","1234"));
 		$this->db=(@mysql_select_db("soft_educ",$this->conexion));
 		$this->id_usuario=($_POST['id_usuario']);
 		$this->loginUsuario=($_POST['loginUsuario']);
