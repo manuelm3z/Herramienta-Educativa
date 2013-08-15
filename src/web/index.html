@@ -1,11 +1,13 @@
-<html> 
-<head> 
-<title>Redireccionando<title>
-</head> 
+<!DOCTYPE html>
+<html lang="es-VE">
+<head>
+	<title>Principal</title>
+	<meta charset="utf-8">
+</head>
 <body>
-<script> 
-setTimeout("document.location.href='Interfase/aut.php';",2000);
-</script>
-<p>En breve ser&aacute; redireccionado, sino es as&iacute; haz click <A href="Interfase/aut.php">aqu&iacute;</A></p>
-</body> 
+	<div id="bienvenida"></div>
+	<script type="text/javascript">
+		window.document.getElementById('bienvenida').innerHTML="Estas en: "+location.host;
+	</script>
+</body>
 </html>
